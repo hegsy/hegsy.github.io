@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Anne-Marie Hegarty
+title: MM4 Final Year Project
 email: amariehegarty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am a final year student in Multimedia with Programming and Design. I am using this site as a way to keep my web skills sharp and as a handy place to keep track of my projects!
+  I am a final year student of the BSC in Multimedia Programming and Design, Limerick Institute of Technology. I am using this site to keep a blog for the development of my Final Year Project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: amariehegarty
