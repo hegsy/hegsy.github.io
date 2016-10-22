@@ -10,7 +10,7 @@ title: MM4 Final Year Project
 email: amariehegarty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I am a final year student of the BSC in Multimedia Programming and Design, Limerick Institute of Technology. I am using this site to keep a blog for the development of my Final Year Project.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: amariehegarty
 github_username:  hegsy
