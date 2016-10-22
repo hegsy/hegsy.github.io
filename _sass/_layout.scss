@@ -58,7 +58,6 @@ FFA875
         text-align: right;
         
 
-
         .menu-icon {
             display: block;
             float: right;
@@ -101,8 +100,6 @@ FFA875
             margin-left: 20px;
         }
         
-       
-
     }
 }
 
@@ -220,7 +217,17 @@ FFA875
     font-size: 24px;
 }
 
+@include media-query($on-palm) {
+   .sidebar-recent-posts {
+    float: none;
+    display: none;
+}
 
+.recent-post-list {
+    list-style: none;
+    display: none;
+}
+}
 
 /**
  * Posts
