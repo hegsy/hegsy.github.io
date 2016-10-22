@@ -189,6 +189,14 @@ FFA875
         margin-bottom: $spacing-unit;
     }
 }
+.post-list-sidebar {
+    margin-left: 300;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
 
 .post-meta {
     font-size: $small-font-size;
