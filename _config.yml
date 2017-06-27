@@ -9,8 +9,7 @@
 title: Anne-Marie Hegarty - Resumé
 email: amariehegarty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am a Graduate of the BSc in Multimedia Programming and Design, Limerick Institute of Technology.
-  This site previews a general version of my resumé, to highlight my skills and knowledge gained from my course.
+  Multimedia Programming and Design Graduate
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: amariehegarty
