@@ -199,7 +199,7 @@ FFA875
 .sidebar-recent-posts {
     float: right;
     display: inline;
-    position: fixed;
+    margin-left: $spacing-unit;
 }
 
 .recent-post-list {
