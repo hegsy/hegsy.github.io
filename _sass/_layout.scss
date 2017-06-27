@@ -221,7 +221,13 @@ FFA875
 .post-main {
     font-family: "Helvetica", sans-serif;
     display: block;
-    font-size: 24px;
+    font-size: 20px;
+}
+
+.post-info {
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+  font-style: italic;
 }
 
 @include media-query($on-palm) {
